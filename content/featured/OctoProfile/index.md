@@ -1,14 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'StockVakri'
+cover: './stock-vakri.png'
+github: 'https://github.com/dkp1903/stock-vakri'
+external: 'https://stock-vakri.netlify.app'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Angular
+  - Node-Express
+  - MongoDB
+  - Protractor, Mocha, Chai
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+Stock Vakri is a full stack stock trading dashboard for stock brokers to manage their client details in tabular, graphical formats, view live market prices and news and get ML driven analyses on stock movements. The project has been built using Angular, Node-Express and MongoDB, and tested using Protractor, Mocha and Chai.
