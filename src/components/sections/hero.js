@@ -52,7 +52,7 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hello! I'm</h1>;
+  const one = <br />;
   const two = <h2 className="big-heading">DKP</h2>;
   const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students</h3>;
   const four = (
