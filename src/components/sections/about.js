@@ -142,22 +142,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+             If this HTML renders correctly, I am DKP, a Full stack Software Engineer with over 2 years of experience building full stack applications
+             across mobile and web. Apart from my full time roles, I contribute actively to Open Source, write technical and analytical content on my blog,
+             mentor upcoming software engineering students, freelance, work on side hustles and upskill regularly.
+
+
             </p>
 
-            <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
