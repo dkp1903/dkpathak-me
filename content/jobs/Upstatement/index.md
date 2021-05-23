@@ -1,12 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-05-24'
+title: 'Software Engineering Intern'
+company: 'Crio.Do'
+location: 'Bangalore, India'
+range: 'Jan 2021 - May 2021'
+url: 'https://crio.do/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- As a part of the Content Engineering team, responsible for creating full stack experiential learning content and production ready codebases to help students get product engineering roles.
