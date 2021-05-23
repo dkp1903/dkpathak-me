@@ -1,12 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-05-23'
+title: 'Software Engineering Intern'
+company: 'Oye! Rickshaw'
+location: 'Gurgaon, India'
+range: 'Oct 2020 - Jan 2021'
+url: 'https://oyerickshaw.com'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- As a part of the Energy Services team, was responsible for the design, development and deployment of a battery switching dashboard that would allow for efficient upkeep of the company's fleet of E-rickshaws.
