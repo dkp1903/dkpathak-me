@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2020-9-25'
+title: 'Software Engineering Intern'
+company: 'Appbase'
+location: 'India'
+range: 'September - November 2020'
+url: 'https://appbase.io'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS

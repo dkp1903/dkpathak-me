@@ -1,11 +1,12 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-05-11'
+title: 'Tech Analyst Intern'
+company: 'Deutsche Bank'
+location: 'India'
+range: 'May - June 2020'
+url: 'https://db.com'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- As a part of the Credit Risk team, responsible for the design, development and deployment of a MEAN stack stock broker dashboard that allows stock brokers to view, update and maintain client details, and observe market prices of various stocks and generate analyses in real time.
+
+- The application was created in a record span of 17 days, and has been unit tested using Karma and Jasmine and end to end tested using Protractor
