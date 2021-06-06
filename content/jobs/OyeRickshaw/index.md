@@ -1,5 +1,5 @@
 ---
-date: '2021-05-23'
+date: '2020-10-23'
 title: 'Software Engineering Intern'
 company: 'Oye! Rickshaw'
 location: 'Gurgaon, India'
