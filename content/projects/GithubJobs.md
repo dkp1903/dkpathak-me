@@ -3,6 +3,8 @@ date: '2020-11-27'
 title: 'A minimalist application to search and apply for jobs'
 github: ''
 external: 'https://github.com/dkp1903/jobster'
+ios: ''
+android: ''
 tech:
   - React
   - Github Jobs API
