@@ -1,5 +1,5 @@
 ---
-date: '2021-05-23'
+date: '2019-01-23'
 title: 'Technical Content Intern'
 company: 'GeeksforGeeks'
 location: 'Gurgaon, India'

@@ -1,5 +1,5 @@
 ---
-date: '2021-05-24'
+date: '2021-01-01'
 title: 'Software Engineering Intern'
 company: 'Crio.Do'
 location: 'Bangalore, India'
