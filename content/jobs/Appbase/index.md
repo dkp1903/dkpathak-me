@@ -1,5 +1,5 @@
 ---
-date: '2020-9-25'
+date: '2020-09-25'
 title: 'Software Engineering Intern'
 company: 'Appbase'
 location: 'India'

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Mentorship'
 cover: './mentoring.jpg'
 github: 'https://github.com/dkp1903/androleda'

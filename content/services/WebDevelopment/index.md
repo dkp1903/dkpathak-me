@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Web Development'
 cover: './web-dev.jpg'
 github: 'https://github.com/dkp1903/androleda'
