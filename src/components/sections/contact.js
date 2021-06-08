@@ -58,7 +58,10 @@ const Contact = () => {
       <a className="email-link" href={`mailto:${email}`}>
         Ping me here
       </a>
-     
+      <a className="email-link" href={`https://calendly.com/dkp1903`}>
+        Schedule a meet with me
+      </a>
+
     </StyledContactSection>
   );
 };
