@@ -58,6 +58,11 @@ const Contact = () => {
       <a className="email-link" href={`mailto:${email}`}>
         Ping me here
       </a>
+      <br />
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+      <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dkp1903?background_color=112240&primary_color=64ffda'});return false;">Set up a meeting with me</a>
+
     </StyledContactSection>
   );
 };
