@@ -63,10 +63,8 @@ const Contact = () => {
       <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
       <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dkp1903?background_color=112240&primary_color=64ffda'});return false;">Set up a meeting with me</a>
       <br />
-      <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/dkp1903" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
     </StyledContactSection>
   );
 };
