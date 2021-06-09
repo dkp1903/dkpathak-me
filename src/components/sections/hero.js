@@ -52,8 +52,8 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <br />;
-  const two = <h2 className="big-heading">DKP</h2>;
+  const one = <h1>Namaste/Hello/Hola/Hallo/Ni Hao/Kon'nichiwa</h1>;
+  const two = <h2 className="big-heading">I am DKP</h2>;
   const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students</h3>;
   const four = (
     <p>
