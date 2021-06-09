@@ -7,7 +7,7 @@ tech:
   - Javascript
   - Concept
 company: 'Self'
-showInProjects: true
+showInBlogs: true
 ---
 
 How exactly does Javascript become async
