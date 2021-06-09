@@ -16,7 +16,7 @@ const StyledHeroSection = styled.section`
   }
 
   h1 {
-    margin: 40px 0 30px 4px;
+    margin: 100px 0 30px 4px;
     color: var(--green);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
@@ -36,6 +36,10 @@ const StyledHeroSection = styled.section`
   p {
     margin: 20px 0 0;
     max-width: 500px;
+  }
+
+  .big-heading {
+    margin-top: 20px;
   }
 
   .email-link {
