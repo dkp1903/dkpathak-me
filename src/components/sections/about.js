@@ -142,8 +142,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-             If this HTML renders correctly, I am DKP, a Full stack Software Engineer with over 2 years of experience building full stack applications
-             across mobile and web. Apart from my full time roles, I contribute actively to Open Source, write technical and analytical content on my blog,
+             If this HTML renders correctly, I am a fairly good developer and problem solver. I have worked with startups and corporates to solve challenging problems at scale. Apart from my full time roles, I contribute actively to Open Source, write technical and analytical content on <a href="https://dkprobes.tech">my blog</a>,
              mentor upcoming software engineering students, freelance, work on side hustles and upskill regularly.
 
 
