@@ -1,1 +1,1 @@
-My portfolio web app made using Gatsby.
+My portfolio website made using Gatsby.
