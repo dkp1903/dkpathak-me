@@ -54,11 +54,13 @@ const Hero = () => {
 
   const one = <h1>Namaste/Hello/Hola/Hallo/Ni Hao/Kon'nichiwa</h1>;
   const two = <h2 className="big-heading">I am DKP</h2>;
-  const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students</h3>;
+  const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students. Happily.</h3>;
   const four = (
     <p>
-      I'm a Full Stack Developer with over 2 years of experience in building sleek UIs and robust services across JavaScript, Java and Python stacks.
-      I'm presently employed as a Software Engineer at Crio.Do, and have worked previously at Oye Rickshaw, Appbase, Deutsche Bank, GeeksforGeeks and Helping Hands.
+      I'm a Full Stack Developer with over 2.5 years of experience in building sleek UIs and robust services across JavaScript, Java and Python stacks.
+      <br />I love progra-memes, won't/can't fix your printer, and overdose on tea.
+      <br/>
+      I'll be joining Deutsche Bank as a Software Engineer, and have worked previously at <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a>, <a href="https://db.com">Deutsche Bank</a>, <a href="https://geeksforgeeks.org">GeeksforGeeks</a> and Helping Hands.
     </p>
   );
   const five = (
