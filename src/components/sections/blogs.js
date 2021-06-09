@@ -204,7 +204,7 @@ const Blogs = () => {
 
   return (
     <StyledBlogsSection>
-      <h2 ref={revealTitle}>Other Noteworthy Blogs</h2>
+      <h2 ref={revealTitle}>My blogs</h2>
 
       {/* <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         view the archive
