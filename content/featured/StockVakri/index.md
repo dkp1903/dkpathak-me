@@ -8,7 +8,7 @@ tech:
   - Angular
   - Node-Express
   - MongoDB
-  - Protractor, Mocha, Chai
+  - Protractor
 showInProjects: true
 ---
 
