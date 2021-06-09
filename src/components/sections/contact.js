@@ -53,12 +53,13 @@ const Contact = () => {
       <p>
         I am open to Full Stack Engineer roles, freelance web development projects and mentoring and talking on open source.
         Please do reach out.
+        <br />
+        I am available across all social handles - or by mail. If you want a more detailed discussion, please set up a call with me as well.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
         Ping me here
       </a>
-      <br />
       <br />
       <a className="email-link" href={`https://calendly.com/dkp1903`}>
         Schedule a meet with me
