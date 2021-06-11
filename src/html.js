@@ -14,42 +14,9 @@ export default class HTML extends React.Component {
           />
           {this.props.headComponents}
         </head>
-        <body {...this.props.bodyAttributes} className="dark">
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              (function() {
-                window.__onThemeChange = function() {};
-                function setTheme(newTheme) {
-                  window.__theme = newTheme;
-                  preferredTheme = newTheme;
-                  document.body.className = newTheme;
-                  window.__onThemeChange(newTheme);
-                }
-
-                var preferredTheme;
-                try {
-                  preferredTheme = localStorage.getItem('theme');
-                } catch (err) { }
-
-                window.__setPreferredTheme = function(newTheme) {
-                  setTheme(newTheme);
-                  try {
-                    localStorage.setItem('theme', newTheme);
-                  } catch (err) {}
-                }
-
-                var darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
-                darkQuery.addListener(function(e) {
-                  window.__setPreferredTheme(e.matches ? 'dark' : 'light')
-                });
-
-                setTheme(preferredTheme || (darkQuery.matches ? 'dark' : 'light'));
-              })();
-            `,
-            }}
-          />
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB26GTPT8H"></script>
+        <body>
+        {/* Google Analytics */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB26GTPT8H"></script>
         <script
             dangerouslySetInnerHTML={{
               __html: `
@@ -62,8 +29,6 @@ export default class HTML extends React.Component {
             }}
           />
           {this.props.preBodyComponents}
-          {console.log('Entering')}
-          <p>Hello</p>
           <div
             key={`body`}
             id="___gatsby"
