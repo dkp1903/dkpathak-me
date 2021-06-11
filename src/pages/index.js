@@ -10,6 +10,19 @@ const StyledMainContainer = styled.main`
 const IndexPage = ({ location }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
+      />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB26GTPT8H"></script>
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+               window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-0HKXFHY9NF');
+              `,
+            }}
+          />
       <Hero />
       <About />
       <Jobs />
