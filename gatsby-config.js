@@ -5,7 +5,7 @@ module.exports = {
     title: 'Dushyant Pathak',
     description: 'DKP is a full stack engineer who has been building apps that scale for 2+ years',
     siteUrl: 'https://dkp.today', // No trailing slash allowed!
-    image: '/preview-dkp-today.PNG', // Path to your image you placed in the 'static' folder
+    image: './static/preview-dkp-today.PNG', // Path to your image you placed in the 'static' folder
     twitterUsername: '@dkp1903',
   },
   plugins: [
