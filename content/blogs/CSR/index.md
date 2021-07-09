@@ -2,7 +2,7 @@
 date: '1'
 title: 'Client vs Server Side Rendering - an introduction'
 github: ''
-link: 'https://dkprobes.tech/Tech/csr-ssr'
+link: 'https://dk-probes.tech/sen/tech/csr-ssr'
 tech:
   - Web technologies
   - Concept
