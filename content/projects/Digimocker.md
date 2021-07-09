@@ -2,7 +2,7 @@
 date: '3'
 title: 'Digimocker-NodeJS microservice alternative to the Digilocker API'
 github: 'https://github.com/dkp1903/digimocker'
-external: 'https://dkprobes.tech/Tech/digimocker'
+external: 'https://dk-probes.tech/sen/tech/digimocker'
 ios: ''
 android: ''
 tech:
