@@ -2,7 +2,7 @@
 date: '3'
 title: '7 Laws of User Experience'
 github: ''
-link: 'https://dkprobes.tech/Tech/ux-laws'
+link: 'https://dk-probes.tech/sen/tech/ux-laws'
 tech:
   - UI-UX
   - Concept
