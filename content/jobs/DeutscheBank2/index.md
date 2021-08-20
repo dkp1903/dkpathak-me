@@ -7,4 +7,5 @@ range: 'July 2021 - Present'
 url: 'https://db.com'
 ---
 
-- Recently joined Deutsche Bank as part of the Technology, Data and Innovation operations.
+- Working as part of the Risk, Finance and Treasury - Credit Risk division.
+- Tech stack : Angular, Spring, Kafka, Helm, Jenkins

@@ -64,7 +64,7 @@ const Hero = () => {
       I'm a Full Stack Developer with over 2.5 years of experience in building sleek UIs and robust services across JavaScript, Java and Python stacks.
       <br />I love progra-memes, won't/can't fix your printer, and overdose on tea.
       <br/>
-      I'll be joining Deutsche Bank as a Software Engineer, and have worked previously at <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a>, <a href="https://db.com">Deutsche Bank</a>, <a href="https://geeksforgeeks.org">GeeksforGeeks</a> and Helping Hands.
+      I work at Deutsche Bank as a Software Engineer, and have worked previously at <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a>, <a href="https://geeksforgeeks.org">GeeksforGeeks</a> and Helping Hands.
     </p>
   );
   const five = (
