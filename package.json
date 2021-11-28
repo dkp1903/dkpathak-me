@@ -1,11 +1,11 @@
 {
-  "name": "newfolio",
+  "name": "DKPathak-Me",
   "description": "Portfolio",
   "version": "1.0.0",
   "author": "DKP",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dkp1903/newfolio"
+    "url": "https://github.com/dkp1903/dkpathak-me"
   },
   "keywords": [
     "gatsby"

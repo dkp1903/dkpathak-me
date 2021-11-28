@@ -57,14 +57,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Namaste/Hello/Hola/Hallo/Ni Hao/Kon'nichiwa</h1>;
-  const two = <h2 className="big-heading">I am DKP</h2>;
-  const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students. Happily.</h3>;
+  const two = <h2 className="big-heading">I am Dushyant, aka DKP</h2>;
+  const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students.</h3>;
   const four = (
     <p>
-      I'm a Full Stack Developer with over 2.5 years of experience in building sleek UIs and robust services across JavaScript, Java and Python stacks.
+      I'm a ~~Pull~~ Full Stack Developer with about a year of Full time non-internship, and about 2 years of internship experience in building sleek UIs, robust services, and attention worthy content.
       <br />I love progra-memes, won't/can't fix your printer, and overdose on tea.
       <br/>
-      I work at Deutsche Bank as a Software Engineer, and have worked previously at <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a>, <a href="https://geeksforgeeks.org">GeeksforGeeks</a> and Helping Hands.
+      I work at Deutsche India as a Software Engineer, and have worked previously at <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a>, <a href="https://geeksforgeeks.org">GeeksforGeeks</a> and Helping Hands.
     </p>
   );
   const five = (
