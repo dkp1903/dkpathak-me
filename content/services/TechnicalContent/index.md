@@ -5,6 +5,7 @@ cover: './blog.png'
 github: 'https://github.com/dkp1903/androleda'
 external: 'https://androleda.netlify.app/'
 tech:
+    - HTML
 showInProjects: true
 ---
 
