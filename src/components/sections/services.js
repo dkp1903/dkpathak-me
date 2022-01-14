@@ -331,7 +331,7 @@ const Services = () => {
   }, []);
 
   return (
-    <section id="projects">
+    <section id="services">
       <h2 className="numbered-heading" ref={revealTitle}>
         My services
       </h2>
