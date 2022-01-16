@@ -61,7 +61,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students.</h3>;
   const four = (
     <p>
-      I'm a ~~Pull~~ Full Stack Developer with about a year of Full time non-internship, and about 2 years of internship experience in building sleek UIs, robust services, and attention worthy content.
+      I'm a <s>Pull</s> Full Stack Developer with about a year of Full time non-internship, and about 2 years of internship experience in building sleek UIs, robust services, and attention worthy content.
       <br />I love progra-memes, won't/can't fix your printer, and overdose on tea.
       <br/>
       I work at Deutsche India as a Software Engineer, and have worked previously at <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a>, <a href="https://geeksforgeeks.org">GeeksforGeeks</a> and Helping Hands.

@@ -14,7 +14,7 @@ const StyledHeader = styled.header`
   position: fixed;
   top: 0;
   z-index: 11;
-  padding: 0px 50px;
+  padding: 0 50px;
   width: 100%;
   height: var(--nav-height);
   background-color: var(--navy);
@@ -55,6 +55,7 @@ const StyledNav = styled.nav`
   ${({ theme }) => theme.mixins.flexBetween};
   position: relative;
   width: 100%;
+  margin-top: 30px;
   color: var(--lightest-slate);
   font-family: var(--font-mono);
   counter-reset: item 0;
