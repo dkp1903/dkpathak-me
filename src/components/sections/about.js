@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['React', 'Node', 'Angular', 'Next', 'MongoDB', 'AWS', 'Docker', 'PostgreSQL', 'Spring', 'Flask', 'GCP', 'Kafka', 'Tailwind', 'SASS', 'Gatsby'];
+  const skills = ['React', 'Node', 'Angular', 'Next.js', 'MongoDB', 'AWS', 'Docker', 'PostgreSQL', 'Java', 'Spring', 'Flask', 'GCP', 'Kafka', 'Tailwind', 'SASS', 'Gatsby'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -142,7 +142,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-             If this HTML renders correctly, I am a fairly good developer and problem solver. I have worked with startups and corporates to solve challenging problems at scale. Apart from my full time roles, I contribute actively to Open Source, write technical and analytical content on <a href="https://dkprobes.tech">my blog</a>,
+             If this HTML renders correctly, I am a fairly good developer and problem solver. I have worked with startups and corporates to solve challenging problems at scale. Apart from my full time roles, I contribute actively to Open Source, write about tech and productivity on <a href="https://dkprobes.tech">my blog</a>,
              mentor upcoming software engineering students, freelance, work on side hustles and upskill regularly.
 
 

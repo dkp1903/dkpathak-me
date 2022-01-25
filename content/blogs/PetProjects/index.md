@@ -2,7 +2,7 @@
 date: '2021-07-05'
 title: '9 steps to make your next pet project industry ready'
 github: ''
-link: 'https://dkprobes.tech/sen/experience/pet-projects'
+link: 'https://dkprobes.tech/your-next-side-project-like-a-pro/'
 tech:
   - Software Engineering
   - Project Management

@@ -2,10 +2,10 @@
 date: '2020-11-27'
 title: 'An introduction to Asynchronous JavaScript'
 github: ''
-link: 'https://dk-probes.tech/sen/tech/asyncjs-1'
+link: 'https://dkprobes.tech/intro-to-async-javascript/'
 tech:
-  - Javascript
-  - Concept
+  - JavaScript
+  - Software Engineering
 company: 'Self'
 showInBlogs: true
 ---
