@@ -2,8 +2,8 @@
 date: '2'
 title: 'Web Development'
 cover: './web-dev.jpg'
-github: 'https://github.com/dkp1903/androleda'
-external: 'https://androleda.netlify.app/'
+github: ''
+external: ''
 tech:
   - HTML
   - Tailwind CSS

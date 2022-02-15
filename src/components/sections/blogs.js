@@ -275,10 +275,12 @@ const Blogs = () => {
             })}
         </TransitionGroup>
       </ul>
-
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </button>
+      <a href="https://dkprobes.tech" target="_blank">
+        <button className="more-button" onClick={() => setShowMore(!showMore)}>
+          {/* Show {showMore ? 'Less' : 'More'} */}
+          Go to blog
+        </button>
+      </a>
     </StyledBlogsSection>
   );
 };

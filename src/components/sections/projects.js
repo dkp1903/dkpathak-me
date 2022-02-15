@@ -275,10 +275,12 @@ const Projects = () => {
             })}
         </TransitionGroup>
       </ul>
-
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </button>
+      <a href="https://github.com/dkp1903" target="_blank">    
+        <button className="more-button" onClick={() => setShowMore(!showMore)}>
+          {/* Show {showMore ? 'Less' : 'More'} */}
+          Go to Github
+        </button>
+      </a>
     </StyledProjectsSection>
   );
 };

@@ -2,8 +2,8 @@
 date: '1'
 title: 'Mentorship'
 cover: './mentoring.jpg'
-github: 'https://github.com/dkp1903/androleda'
-external: 'https://androleda.netlify.app/'
+github: ''
+external: ''
 tech:
   - HTML
   - Tailwind CSS

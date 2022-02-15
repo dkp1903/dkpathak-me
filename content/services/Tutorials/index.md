@@ -1,9 +1,9 @@
 ---
 date: '4'
 title: 'Product tutorials'
-cover: './mentoring.jpg'
-github: 'https://github.com/dkp1903/androleda'
-external: 'https://androleda.netlify.app/'
+cover: './product.jpg'
+github: ''
+external: ''
 tech:
   - HTML
   - Tailwind CSS

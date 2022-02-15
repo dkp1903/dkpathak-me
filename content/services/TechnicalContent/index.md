@@ -2,8 +2,8 @@
 date: '1'
 title: 'Content Writing/Blogging'
 cover: './blog.png'
-github: 'https://github.com/dkp1903/androleda'
-external: 'https://androleda.netlify.app/'
+github: ''
+external: ''
 tech:
     - HTML
 showInProjects: true

@@ -7,8 +7,14 @@ range: 'July 2021 - Present'
 url: 'https://db.com'
 ---
 
-- Full Stack Engineer in the Risk, Finance and Treasury - Credit Risk division.
-- Working on Ratings analysis - an application that tests creditworthiness of corporates and organizations by analyzing multiple rating data feeds, annual report analyses, limit upgrades and past history
-- Tech stack : Java(Spring), OracleDB, Angular, Kafka, Cucumber, Fabric
-- Set up configuration environments for easy deployment of application, reduced technical debt by over 40% via code quality fixes and added and tested features for managing and updating limits
-- Pioneered a documentation overhaul to help new joiners with easy setup and onboarding onto the application by collaborating with multiple developers, testers and POs across 8 teams
+- Full Stack Engineer in the Credit Risk Division
+
+- Worked on features of Ratings Analysis, Credit Limit Approvals, Subsidiary Maintenance modules of the Credit Risk application to allow Credit Officers to test creditworthiness of a counterparty
+
+- Tech stack : Java(Spring), Angular, Typescript, CSS, Kafka, Protractor, Cucumber, Oracle DB
+
+- Pioneered a documentation overhaul within the team to optimize new joiner onboarding
+
+- Played a pivotal role in helping the team transition from a Test Driven, to a Behavior Driven Developmental model by mentoring fellow developers to adopt a feature driven approach
+
+- Initialized the phased adoption of the async mode of working to optimize developer productivity
