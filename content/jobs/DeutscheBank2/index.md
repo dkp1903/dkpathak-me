@@ -9,12 +9,12 @@ url: 'https://db.com'
 
 - Full Stack Engineer in the Credit Risk Division
 
-- Worked on features of Ratings Analysis, Credit Limit Approvals, Subsidiary Maintenance modules of the Credit Risk application to allow Credit Officers to test creditworthiness of a counterparty
+- End to end ownership of the Early Warning System and Risk Tracker application that uses Machine Learning on News articles and stock prices to advise Credit Officers of trends.
 
-- Tech stack : Java(Spring), Angular, Typescript, CSS, Kafka, Protractor, Cucumber, Oracle DB
+- The product was adjudged to be the most innovative product in an internal presentation, and is being tracked by the Deutsche Bank Global technical leadership.
 
-- Pioneered a documentation overhaul within the team to optimize new joiner onboarding
+- Working on Ratings projects for Financials Institutions, which allows Rating Analysts to determine creditworthiness of organizations.
 
-- Played a pivotal role in helping the team transition from a Test Driven, to a Behavior Driven Developmental model by mentoring fellow developers to adopt a feature driven approach
+- Have won Spot awards for technical and people contribution within the department and have been called out for steadfast calm under pressure
 
-- Initialized the phased adoption of the async mode of working to optimize developer productivity
+- Tech stack : Java, Angular, Typescript, Kafka, OracleDB, WebDriver
