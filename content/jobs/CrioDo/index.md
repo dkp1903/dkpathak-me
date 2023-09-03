@@ -1,6 +1,6 @@
 ---
 date: '2021-01-01'
-title: 'Software Engineering Intern'
+title: 'Software Engineer Intern'
 company: 'Crio.Do'
 location: 'Bangalore, India'
 range: 'Jan 2021 - May 2021'
