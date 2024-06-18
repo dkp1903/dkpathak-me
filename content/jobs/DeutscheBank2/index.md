@@ -7,7 +7,7 @@ range: 'July 2021 - Present'
 url: 'https://db.com'
 ---
 
-- Full Stack Engineer in the Credit Risk Division
+- Fullstack Engineer in the Credit Risk Division
 
 - End to end ownership of the Early Warning System and Risk Tracker application that uses Machine Learning on News articles and stock prices to advise Credit Officers of trends.
 
