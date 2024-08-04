@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Google Cloud Engineer'
-cover: './blog.png'
+cover: './gcp.png'
 github: ''
 external: ''
 tech:
