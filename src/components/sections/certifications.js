@@ -282,8 +282,8 @@ const StyledProject = styled.li`
       mix-blend-mode: multiply;
       filter: grayscale(100%) contrast(1) brightness(90%);
       width: 100px;  // Added to set the new width
-      height: auto;  // Added to maintain aspect ratio
-      
+      height: 100px;  // Added to maintain aspect ratio
+      object-fit: cover;
       @media (max-width: 768px) {
         object-fit: cover;
         width: auto;
