@@ -61,10 +61,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I develop tech products, write tech content and mentor tech students.</h3>;
   const four = (
     <p>
-      I'm a <s>Pull</s> Full Stack Developer with 2 years of Full time non-internship experience in building sleek UIs, robust services, and attention worthy content.
+      I'm a <s>Pull</s> Full Stack Developer with 5 years of experience in AI and Full Stack Software Engineering.
       <br />I love progra-memes, won't/can't fix your printer, and overdose on tea.
       <br/>
-      I work at Deutsche India as a Software Engineer, and have worked previously at <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a> and <a href="https://geeksforgeeks.org">GeeksforGeeks</a>.
+      I work at UiPath as a Senior Software Engineer, and have worked previously at <a href="https://db.com"> Deutsche Bank </a> <a href="https://crio.do">Crio.Do</a>, <a href="https://oyerickshaw.com">Oye Rickshaw</a>, <a href="https://appbase.io">Appbase</a> and <a href="https://geeksforgeeks.org">GeeksforGeeks</a>.
     </p>
   );
   const five = (
